@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+table, th, td{
+	border: 1px solid black;
+	border-collapse:collapse;
+	
+}
+td{
+	width: 70px
+}
+
+#head{
+	background-color:darkred;
+	color:whitesmoke;
+}
+
+#tr1{
+	background-color:lightpink;
+	color:white;
+}
+#tr2{
+	background-color:mintcream;
+	color:black;
+}
+#tr3{
+	background-color:lightseagreen;
+	color:black;
+}
